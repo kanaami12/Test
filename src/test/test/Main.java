@@ -5,4 +5,8 @@ public class Main {
 	//edit
 	//commit
 	//test
+	public void test() {
+		
+	}
+
 }
